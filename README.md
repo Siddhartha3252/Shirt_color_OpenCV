@@ -1,4 +1,4 @@
-# Shirt Colour Project Using OpenCV-YOLOV8 ![![Pic](https://github.com/user-attachments/assets/c96503d9-e2b4-4512-89f2-09e42a8c9075)
+# Shirt Colour Project Using OpenCV-YOLOV8 ![![pic](https://github.com/user-attachments/assets/d5299ee5-b11a-4d15-890c-1c48ff87fa88)
 ] ![![pic1](https://github.com/user-attachments/assets/0ba26c58-de58-450f-b9e8-4d70885e0030)
 ]
 
