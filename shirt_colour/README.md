@@ -19,19 +19,18 @@ The Shirt Colour Project is a web application designed to detect and identify th
 
 ## Installation
 To install the necessary dependencies, run:
-```bash
 pip install -r requirements.txt
 
 ## Usage
 To start the project, use the following command:
 streamlit run shirt.py
 
-Contributing
+## Contributing
 I welcome contributions! Please fork the repository and submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Contact
+## Contact
 For any questions or feedback, please contact [sidvastva@gmail@example.com].
 
